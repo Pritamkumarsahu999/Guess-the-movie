@@ -10,4 +10,5 @@ if(guess == favMovie){                               //condition if guess is tru
 }else{
     console.log("You quit");                         //you typed guess = quit
 }
+
  
