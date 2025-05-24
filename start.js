@@ -1,4 +1,4 @@
-const favMovie = "avatar";                           //setting up a variable
+const favMovie = "avatar";                           //setting up a variable or the winning movie or right movie
 
 let guess = prompt("Guess my favorite movie");       //giving pronpt to take the requests
 
